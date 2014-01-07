@@ -1,5 +1,7 @@
+# set the answer number to a random number
 num = rand(100) + 1
 
+# initialize tries
 tries = 0
 
 while true
