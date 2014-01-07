@@ -11,32 +11,3 @@ end
 
 arr.each { |x| print "#{x}" }
 puts
-
-
-
-
-
-=begin
-
-# old way - creates new array
-	
-puts "Enter a string"
-
-arr = gets.chomp.split(//)
-
-length = arr.length
-
-reversed_arr = []
-
-i = 0
-
-while i < length
-  reversed_arr.push arr.pop
-  i += 1
-end
-
-reversed_arr.each { |x| print "#{x}" }
-puts
-
-	
-=end
