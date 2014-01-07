@@ -26,5 +26,3 @@ while true
   end
 
 end
-
-# comment
