@@ -14,7 +14,7 @@ while true
     else
       puts "You got it in #{tries} tries."
     end
-    
+
     break
 
   elsif num < guess
@@ -27,4 +27,4 @@ while true
 
 end
 
-
+# comment
